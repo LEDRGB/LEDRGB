@@ -3,7 +3,7 @@
 **Product Engineer — Frontend-focused**
 React · Next.js · TypeScript · Node · Web3 · Valencia, Spain
 
-Currently building [Lette AI](https://lette.ai), an AI-powered OS for property management. Previously Tech Lead at MELD (non-custodial wallet + DEX) and full-stack at Stryber. Founder of [hoardgate.com](https://www.hoardgate.com) — a live Web3 marketplace and TCG collection manager.
+Founder of [hoardgate.com](https://www.hoardgate.com) — a live Web3 marketplace and TCG collection manager. Previously Tech Lead at MELD (non-custodial wallet + DEX) and full-stack at Stryber.
 
 ### Featured
 
